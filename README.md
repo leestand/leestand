@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leestand
 - 👀 I’m interested in food & beverage, especially how data can make it smarter
-- 🌱 I’m currently learning Data Analysis with Python, SQL, and GCP
+- 🌱 I’m currently learning Data Analysis with Python, SQL, Tableau and GCP
 - 💞️ I’m looking to collaborate on any data-related project where I can grow and contribute
 - 📫 How to reach me : [https://www.linkedin.com/in/leeseo/]
 - 😄 Pronouns: she/her
