@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 이서(leestand)입니다 
 
-**사용자 중심의 AI 서비스를 기획하고 분석**하는 것을 좋아합니다.
+**사용자 중심의 AI 서비스를 기획하고 분석**하는 것을 좋아합니다.  
 📫 [LinkedIn 프로필](https://www.linkedin.com/in/leeseo/)   
 
 
