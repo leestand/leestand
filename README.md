@@ -21,7 +21,8 @@ KoSentenceBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사
 **프레임워크**: LangChain, Streamlit, PyTorch, SentenceTransformers(KoSBERT)  
 **데이터베이스**: ChromaDB (Vector DB)  
 
-#### 🏆 프로젝트 수상 스케치
+## 🏆 프로젝트 수상 스케치
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="400"/>
 </div>
