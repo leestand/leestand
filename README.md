@@ -20,8 +20,7 @@ Combines **user prompts, review vectorization, and cosine similarity scoring** t
 
 > 📊 A playful solution to a real social friction—backed by vector search and real user review embeddings
 
-[![EGMR-AI 시연 영상](https://img.youtube.com/vi/4jeZ1oXFj5Q/0.jpg)](https://youtu.be/4jeZ1oXFj5Q)  
-🔗 [시연 영상 바로 보기](https://youtu.be/4jeZ1oXFj5Q)
+
 
 ---
 
@@ -34,8 +33,28 @@ A **RAG-based legal assistant** designed to help young adults avoid **real estat
 
 > 🛡️ Socially responsible AI, blending **law, NLP, and UX** for first-time renters and legal novices
 
-![SWITCH-ON 썸네일](https://user-images.githubusercontent.com/your_image_link/SWITCH-ON-demo.gif) <!-- 실제 이미지나 gif 링크로 대체 -->
+## 📸 현장 스케치
 
+<table>
+  <thead>
+    <tr>
+      <th>🏆 수상 장면</th>
+      <th>🖥️ 시연 장면</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="images/presentation_day_1.jpg" width="400"/><br/>
+        <img src="images/presentation_day_2.jpg" width="400"/>
+      </td>
+      <td>
+        <img src="images/demo_2.jpg" width="400"/><br/>
+        <img src="images/presentation_day_3.jpg" width="400"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ### 🧠 [ALWS: AI Learning Workflow System](https://github.com/leestand/ALWS)
@@ -47,7 +66,9 @@ A streamlined **AI curriculum development tool**, enabling learners and educator
 
 > 🎓 Bridging the gap between **learning and building** through experiment-based learning design
 
-![ALWS flow 이미지](https://user-images.githubusercontent.com/your_image_link/ALWS-flow.png) <!-- ALWS 관련된 설계 이미지나 와이어프레임으로 대체 -->
+[![광진구 착한가격업소 Tableau 대시보드](./dashboard_sample.jpg)](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)
+
+**[🔗 Tableau에서 대시보드 바로 보기](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)**
 
 ---
 
