@@ -23,7 +23,19 @@ KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유
   <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_1.jpg" width="200"/>
 </div>
 
-**언어**: Python  
+#### 📸 프로젝트 현장
+
+<div align="left">
+
+  <h4>🏆 수상 장면 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 시연 장면</h4>
+
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="240"/>
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_1.jpg" width="240"/>
+
+</div>
+
+
+**언어**: Python    
 **프레임워크**: LangChain, Streamlit, PyTorch, SentenceTransformers
 **데이터베이스**: ChromaDB (Vector DB)  
 
