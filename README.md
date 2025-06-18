@@ -1,5 +1,3 @@
-📫 [LinkedIn 프로필](https://www.linkedin.com/in/leeseo/)  
-
 ---
 
 ## 🚀 대표 프로젝트
