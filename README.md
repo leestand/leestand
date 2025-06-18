@@ -14,12 +14,12 @@ KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유
 | 🏆 수상 장면 | 💻 시연 장면 |
 |--------------|----------------|
 | 
-<img src="EGMR-AI/images/presentation_day_1.jpg" width="150"/>
-<img src="EGMR-AI/images/presentation_day_2.jpg" width="150"/>
-<img src="EGMR-AI/images/presentation_day_3.jpg" width="150"/>
+<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="150"/>
+<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_2.jpg" width="150"/>
+<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_3.jpg" width="150"/>
 | 
-<img src="EGMR-AI/images/demo_1.jpg" width="150"/>
-<img src="EGMR-AI/images/demo_2.jpg" width="150"/>
+<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_1.jpg" width="150"/>
+<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_2.jpg" width="150"/>
 |
 
 **언어**: Python  
@@ -50,7 +50,7 @@ AI 커리큘럼 설계 경험을 바탕으로 만든 **실습 워크플로우 �
 
 ## 📊 착한가격업소 대시보드
 
-[![광진구 착한가격업소 Tableau 대시보드](ALWS/dashboard_sample.jpg)](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)  
+[![광진구 착한가격업소 Tableau 대시보드](https://raw.githubusercontent.com/leestand/ALWS/main/dashboard_sample.jpg)](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)
 **[🔗 Tableau에서 대시보드 바로 보기](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)**
 
 **언어**: SQL, Python  
