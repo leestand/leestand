@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leeseo (leestand)
 **I bridge AI technology and user-centered content — making complex concepts simple and actionable.**  
-**AI 기술과 사용자 중심 콘텐츠를 연결해 복잡한 개념을 쉽게 이해하고 실행할 수 있도록 만드는 것을 좋아합니다.**
+**복잡한 복잡한 AI 기술도 사용자 눈높이에 맞춰 쉽게 풀어내고, 누구나 이해하고 활용할 수 있도록 만드는 일을 좋아합니다.**
 
 👩‍💻 Contact  
 📧 leeseoan924@gmail.com  
