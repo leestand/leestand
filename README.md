@@ -26,7 +26,7 @@ KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유
 
 #### 🏆 프로젝트 수상 스케치
 <div align="center">
-  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="500"/>
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="300"/>
 </div>
 ---
 
