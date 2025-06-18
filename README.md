@@ -61,8 +61,52 @@ AI 커리큘럼 설계 경험을 바탕으로 만든 **실습 워크플로우 �
   <strong>[🔗 Tableau에서 대시보드 바로 보기](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)</strong>
 
 </div>
+
 ---
 
+## 🛠 기술 스택
+
+### 📚 Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+</div>
+
+### 🧠 Machine Learning / Deep Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SentenceTransformers-00599C?style=flat-square&logo=semantic-release&logoColor=white"/>
+</div>
+
+### 🧩 Data Analysis & Pipeline
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+</div>
+
+### 🗃 Vector DB / Database
+<div align="center">
+  <img src="https://img.shields.io/badge/ChromaDB-16C60C?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</div>
+
+### 🌐 Web / Visualization
+<div align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</div>
+
+### ☁️ Cloud / MLOps
+<div align="center">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</div>
+
+---
 
 👀 궁금한 점이나 협업 제안은 언제든 연락주세요! (leeseoan924@gmail.com)
 
