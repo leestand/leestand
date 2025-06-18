@@ -64,11 +64,12 @@ A streamlined **AI curriculum development tool**, enabling learners and educator
 - Ideal for data science educators and AI education programs  
 - Currently evolving into a productivity tool for AI course creators
 
-> 🎓 Bridging the gap between **learning and building** through experiment-based learning design
-
-[![광진구 착한가격업소 Tableau 대시보드](./dashboard_sample.jpg)](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)
-
+[![광진구 착한가격업소 Tableau 대시보드](ALWS/dashboard_sample.jpg)](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)
 **[🔗 Tableau에서 대시보드 바로 보기](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)**
+
+---
+
+> 🎓 Bridging the gap between **learning and building** through experiment-based learning design
 
 ---
 
