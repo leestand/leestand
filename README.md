@@ -9,12 +9,12 @@ LLM 기반으로 **그룹의 음식 선호를 반영한 맛집을 추천하는 A
 KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유사도 기반 랭킹을 통해  
 "오늘 뭐 먹지?"라는 질문에 **데이터로 정답을 제시합니다.**
 
-#### 📸 프로젝트 현장
+#### 📸 프로젝트 현장 스케치
 
-**🏆 수상 장면**
+**🏆 수상**
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="200"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="500"/>
 </div>
 
 **언어**: Python    
