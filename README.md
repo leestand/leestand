@@ -10,16 +10,21 @@ KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유
 "오늘 뭐 먹지?"라는 질문에 **데이터로 정답을 제시합니다.**
 
 #### 📸 프로젝트 현장
-| 🏆 수상 장면 | 💻 시연 장면 |
-|--------------|----------------|
-| 
-<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="150"/>
-<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_2.jpg" width="150"/>
-<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_3.jpg" width="150"/>
-| 
-<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_1.jpg" width="150"/>
-<img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_2.jpg" width="150"/>
-|
+
+**🏆 수상 장면**
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="160"/>
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_2.jpg" width="160"/>
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_3.jpg" width="160"/>
+</div>
+
+**💻 시연 장면**
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_1.jpg" width="160"/>
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_2.jpg" width="160"/>
+</div>
 
 **언어**: Python  
 **프레임워크**: LangChain, Streamlit, PyTorch, SentenceTransformers
