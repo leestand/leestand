@@ -25,8 +25,8 @@ KoSentenceBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사
 <div align="center">
   <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="400"/>
 </div>
----
 
+---
 ### ⚖️ [SWITCH-ON: 전세사기 방지용 법률 챗봇](https://github.com/leestand/SWITCH-ON)
 청년과 1인 가구를 위해 설계된 **RAG 기반 법률 AI 챗봇**입니다.  
 판례, 법령, 뉴스 등 법률 문서를 벡터화하여 자연어 질문에 맞는 판례를 자동으로 찾아줍니다.  
