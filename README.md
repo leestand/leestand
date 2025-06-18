@@ -1,6 +1,5 @@
 # 👋 안녕하세요, 이서(leestand)입니다 
 
-AI와 데이터를 통해 사람과 서비스를 연결하는 데이터 분석가입니다.  
 **사용자 중심의 AI 서비스를 기획하고 분석**하는 것을 좋아합니다.
 
 📫 [LinkedIn 프로필](https://www.linkedin.com/in/leeseo/)   
