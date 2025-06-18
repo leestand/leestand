@@ -13,7 +13,7 @@
 아래 포트폴리오는 LLM과 AI 기반 기획 역량을 담고 있으며, 특히 사용자의 문제 정의 → 데이터 설계 → 모델 튜닝 → 시각화 전달의 흐름을 가지고 있습니다.
 
 ---
-### 🥗 [EGMR-AI: 모두를 위한 식당 추천 챗봇](https://github.com/leestand/EGMR-AI)
+## 🥗 [EGMR-AI: 모두를 위한 식당 추천 챗봇](https://github.com/leestand/EGMR-AI)
 LLM 기반으로 **그룹의 음식 선호를 반영한 맛집을 추천하는 AI 챗봇**입니다.  
 KoSentenceBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유사도 기반 랭킹을 통해  "오늘 뭐 먹지?"라는 질문에 **데이터로 추천 리스트를 제시합니다.**
 
@@ -21,14 +21,14 @@ KoSentenceBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사
 **프레임워크**: LangChain, Streamlit, PyTorch, SentenceTransformers(KoSBERT)  
 **데이터베이스**: ChromaDB (Vector DB)  
 
-## 🏆 프로젝트 수상 스케치
+### 🏆 프로젝트 수상 스케치
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="400"/>
 </div>
 
 ---
-### ⚖️ [SWITCH-ON: 전세사기 방지용 법률 챗봇](https://github.com/leestand/SWITCH-ON)
+## ⚖️ [SWITCH-ON: 전세사기 방지용 법률 챗봇](https://github.com/leestand/SWITCH-ON)
 청년과 1인 가구를 위해 설계된 **RAG 기반 법률 AI 챗봇**입니다.  
 판례, 법령, 뉴스 등 법률 문서를 벡터화하여 자연어 질문에 맞는 판례를 자동으로 찾아줍니다.  
 사용자는 어려운 법률 용어 대신 일상어로 질문하고, **실제 유사 판례를 기반으로 부동산 계약 관련 질문을 하고 답변 받을 수 있습니다.**
@@ -38,7 +38,7 @@ KoSentenceBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사
 **데이터베이스**: ChromaDB(Vector DB)  
 
 
-## 🎥 챗봇 발표 및 시연 영상
+### 🎥 챗봇 발표 및 시연 영상
 
 <div align="center">
 
@@ -50,7 +50,7 @@ KoSentenceBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사
 
 ---
 
-### 📊 [ALWS: 착한가격업소를 신규발굴 하기 위한 대시보드 설계](https://github.com/leestand/ALWS)
+## 📊 [ALWS: 착한가격업소를 신규발굴 하기 위한 대시보드 설계](https://github.com/leestand/ALWS)
 새로운 가격 지표를 바탕으로 만든 **착한 가격 업소 후보지 대시보드**입니다.  
 광진구 착한가격업소를 신규 발굴하기 위해 지역별 가격 경쟁력과 유동 인구, 매출, 청결도 등 지표를 시각화합니다.
 
@@ -58,7 +58,7 @@ KoSentenceBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사
 **프레임워크**: Tableau, Pandas  
 **데이터베이스**: 공공데이터 기반 CSV / Excel    
 
-## 📊 착한가격업소 대시보드
+### 📊 착한가격업소 대시보드
 
 <div align="center">
 
