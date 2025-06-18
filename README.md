@@ -6,8 +6,7 @@
 
 ### 🥗 [EGMR-AI: 모두를 위한 식당 추천 챗봇](https://github.com/leestand/EGMR-AI)
 LLM 기반으로 **그룹의 음식 선호를 반영한 맛집을 추천하는 AI 챗봇**입니다.  
-KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유사도 기반 랭킹을 통해  
-"오늘 뭐 먹지?"라는 질문에 **데이터로 정답을 제시합니다.**
+KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유사도 기반 랭킹을 통해  "오늘 뭐 먹지?"라는 질문에 **데이터로 정답을 제시합니다.**
 
 **언어**: Python    
 **프레임워크**: LangChain, Streamlit, PyTorch, SentenceTransformers
