@@ -1,10 +1,9 @@
-# 👋 안녕하세요, 이서(leestand)입니다 
-
-**사용자 중심의 AI 서비스를 기획하고 분석**하는 것을 좋아합니다.  
+# 👋 Hi, I'm Leeseo (leestand)
+**I bridge AI technology and user-centered content — making complex concepts simple and actionable.**
 
 👩‍💻 Contact
-📧 leeseoan924@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/leeseo)
+📧 leeseoan924@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/leeseo)  
 
 ---
 
