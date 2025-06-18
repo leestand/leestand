@@ -14,16 +14,13 @@ KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유
 **🏆 수상 장면**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="160"/>
-  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_2.jpg" width="160"/>
-  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_3.jpg" width="160"/>
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/presentation_day_1.jpg" width="200"/>
 </div>
 
 **💻 시연 장면**
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_1.jpg" width="160"/>
-  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_2.jpg" width="160"/>
+  <img src="https://raw.githubusercontent.com/leestand/EGMR-AI/main/images/demo_1.jpg" width="200"/>
 </div>
 
 **언어**: Python  
