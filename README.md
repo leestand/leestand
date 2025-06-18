@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Leeseo (leestand)
-**I bridge AI technology and user-centered content — making complex concepts simple and actionable.**  
-**복잡한 복잡한 AI 기술도 사용자 눈높이에 맞춰 쉽게 풀어내고, 누구나 이해하고 활용할 수 있도록 만드는 일을 좋아합니다.**
 
 👩‍💻 Contact  
 📧 leeseoan924@gmail.com  
@@ -9,8 +7,6 @@
 
 
 ## 🚀 대표 프로젝트
-
-아래 포트폴리오는 LLM과 AI 기반 기획 역량을 담고 있으며, 특히 사용자의 문제 정의 → 데이터 설계 → 모델 튜닝 → 시각화 전달의 흐름을 가지고 있습니다.
 
 ---
 ## 🥗 [EGMR-AI: 모두를 위한 식당 추천 챗봇](https://github.com/leestand/EGMR-AI)
