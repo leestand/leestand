@@ -1,8 +1,66 @@
 # 👋 안녕하세요, 이서(leestand)입니다 
 
 **사용자 중심의 AI 서비스를 기획하고 분석**하는 것을 좋아합니다.
-
 📫 [LinkedIn 프로필](https://www.linkedin.com/in/leeseo/)   
+
+
+## 🛠 기술 스택
+<div style="display: flex; flex-direction: column; gap: 16px">
+
+<!-- Language Card -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
+  <strong>📚 Languages</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+</div>
+
+<!-- ML/DL Card -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
+  <strong>🧠 Machine Learning / Deep Learning</strong><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-0A0A0A?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SentenceTransformers-00599C?style=flat-square&logo=semantic-release&logoColor=white"/>
+</div>
+
+<!-- Data Analysis -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
+  <strong>📊 Data Analysis & Pipeline</strong><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apache&logoColor=black"/>
+</div>
+
+<!-- DB -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
+  <strong>🗃 Database / Vector DB</strong><br>
+  <img src="https://img.shields.io/badge/ChromaDB-16C60C?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</div>
+
+<!-- Web & Viz -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
+  <strong>🌐 Web / Visualization</strong><br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</div>
+
+<!-- Infra -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
+  <strong>☁️ Infra & DevOps</strong><br>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</div>
+
+</div>
 
 ---
 
@@ -59,67 +117,6 @@ KoSBERT 기반 벡터화, 사용자 프롬프트 기반 필터링, 코사인 유
   [![광진구 착한가격업소 Tableau 대시보드](https://raw.githubusercontent.com/leestand/ALWS/main/dashboard_sample.jpg)](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)
   <br>
   <strong>[🔗 Tableau에서 대시보드 바로 보기](https://public.tableau.com/app/profile/seungwoo.lee5575/viz/_17460765514420/1_1)</strong>
-
-</div>
-
----
-
-## 🛠 기술 스택
-
-<div style="display: flex; flex-direction: column; gap: 16px">
-
-<!-- Language Card -->
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
-  <strong>📚 Languages</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-</div>
-
-<!-- ML/DL Card -->
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
-  <strong>🧠 Machine Learning / Deep Learning</strong><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CNN-0A0A0A?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SentenceTransformers-00599C?style=flat-square&logo=semantic-release&logoColor=white"/>
-</div>
-
-<!-- Data Analysis -->
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
-  <strong>📊 Data Analysis & Pipeline</strong><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apache&logoColor=black"/>
-</div>
-
-<!-- DB -->
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
-  <strong>🗃 Database / Vector DB</strong><br>
-  <img src="https://img.shields.io/badge/ChromaDB-16C60C?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</div>
-
-<!-- Web & Viz -->
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
-  <strong>🌐 Web / Visualization</strong><br>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-</div>
-
-<!-- Infra -->
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px">
-  <strong>☁️ Infra & DevOps</strong><br>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</div>
 
 </div>
 
